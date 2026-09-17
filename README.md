@@ -6,7 +6,7 @@
 <img src="pic/Ref.png" alt="3D Plot" style="width: 1000px; height: 500px;">
 
 
-```gi 
+```
 Multiple Linear Regression/
 │
 ├── Formula's
