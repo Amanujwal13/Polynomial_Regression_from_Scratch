@@ -3,12 +3,13 @@
     Basic Mathematical Logic to build a Polynomial Linear Regression Model from formulas..
 </p>
 
-<img src="pic/Ref.png" alt="3D Plot" style="width: 500px; height: 400px;">
+<img src="pic/Ref.png" alt="3D Plot" style="width: 1000px; height: 500px;">
 
 
 ```gi 
 Multiple Linear Regression/
 │
+├── Formula's
 ├── pic
 ├── LR.ipynb
 └── README.md
